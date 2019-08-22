@@ -1,6 +1,8 @@
 {
   "name": "ionic-hostel",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "bf2d2400"
 }
